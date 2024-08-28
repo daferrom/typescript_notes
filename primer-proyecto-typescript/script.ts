@@ -141,6 +141,8 @@ class Persona {
 
 //INTERFACES
 
+// una interfaz describe la forma de un objeto, es decir, los nombres y tipos de sus propiedades y métodos, pero no proporciona ninguna implementación concreta.
+
 // Interface básica:
 interface Persona {
     nombre: string;
